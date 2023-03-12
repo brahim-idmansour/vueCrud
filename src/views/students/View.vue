@@ -6,7 +6,7 @@
       <div class="card-header">
         <h4>
           students
-          <RouterLink to="student/create" class="btn btn-primary float-end"
+          <RouterLink to="students/create" class="btn btn-primary float-end"
             >add student</RouterLink
           >
         </h4>
